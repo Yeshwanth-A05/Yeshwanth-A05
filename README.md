@@ -32,5 +32,10 @@ I'm Yeshwanth.
 <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab Icon">
 </div>
 
+## LeetCode Stats
+![LeetCode Stats](https://leetcode.card.workers.dev/Yeshwanth-115?theme=auto&font=baloo&extension=null)
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Yeshwanth-A05&style=for-the-badge&color=blueviolet&label=Visitors&labelColor=1A1A1A&logoColor=white&labelPad=10&logoPad=5&borderColor=red&borderWidth=2&shadow=5)
