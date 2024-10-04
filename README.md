@@ -33,7 +33,7 @@ I'm Yeshwanth.
 </div>
 
 ## LeetCode Stats
-![LeetCode Stats](https://leetcode.card.workers.dev/Yeshwanth-115?theme=auto&font=baloo&extension=null)
+![LeetCode Stats](https://leetcode.card.workers.dev/Yeshwanth_115?theme=auto&font=baloo&extension=null)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
