@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vishnus1793&theme=onedark&no-bg=true&no-frame=true" alt="GitHub Profile Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Yeshwanth-A05&theme=onedark&no-bg=true&no-frame=true" alt="GitHub Profile Trophies" />
   </a>
 </p>
 
@@ -67,29 +67,25 @@
   <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
-### 🔑 Tools 
-<p>
-  <img src="https://camo.githubusercontent.com/ff98cdc123c03716521aa80f6a8092a16e0596325b0dd1ad80547f9ccc45046a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f62697477617264656e2d2532333137354444432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d62697477617264656e266c6f676f436f6c6f723d7768697465" />
 
-</p>
 
 ## Flexing as a Programmer 🚀  
 Grinding code, solving problems, and building cool stuff!  
 
 
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vishnus1793&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yeshwanth-A05&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- <img src="https://raw.githubusercontent.com/Rithik20041/Rithik20041/output/snake.svg" alt="Snake animation" /> -->
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishnus1793&color=green" alt="Vishnu's Profile View Count">
+  <img src="https://komarev.com/ghpvc/?username=Yeshwanth-A05&color=green" alt="Vishnu's Profile View Count">
 </p>
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnus1793&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnus1793&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yeshwanth-A05&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yeshwanth-A05&theme=radical" alt="GitHub Streak" />
 </p>
 
 
