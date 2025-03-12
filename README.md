@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yeshwanth</h1> 
 <h3 align="center">Passionate Curiosity-Driven Learner</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Yeshwanth-A05&theme=onedark&no-bg=true&no-frame=true" alt="GitHub Profile Trophies" />
-  </a>
-</p>
+[](https://github-profile-trophy.vercel.app/?username=Yeshwanth-A05)
 
 ## 🚀 About Me
 - 👨‍💻 All of my projects are available at 
@@ -24,9 +20,7 @@
   <a href="https://www.leetcode.com/vishnu1793" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://signal.me/#eu/Pjsj-DYDMmFZBKgu2O8FIl3dKtsVVuXeb2HHI2DFN4S931ZTjipOLaa9TIcSwDeX" target="blank">
-    <img src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white" alt="Signal" />
-  </a>
+ 
 </p>
 
 ---
