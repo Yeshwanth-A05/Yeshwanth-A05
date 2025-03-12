@@ -1,41 +1,108 @@
-# Hi there
+<h1 align="center">Hi 👋, I'm Yeshwanth</h1> 
+<h3 align="center">Passionate Curiosity-Driven Learner</h3>
 
-I'm Yeshwanth.
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vishnus1793&theme=onedark&no-bg=true&no-frame=true" alt="GitHub Profile Trophies" />
+  </a>
+</p>
 
-## About Me
+## 🚀 About Me
+- 👨‍💻 All of my projects are available at 
+- 📫 How to reach me: **anbumaniyeshwanth@gmail.com**
 
-- 🔭 I’m currently working on React Project
-- 🌱 I’m currently learning AI and ML
-- 📫 How to reach me:
-<br />[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:anbumaniyeshwanth@gmail.com)
+---
 
-### I code in
+## 📞 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/vishnu-s-0477ba246/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/ivishnu1793" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.leetcode.com/vishnu1793" target="blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://signal.me/#eu/Pjsj-DYDMmFZBKgu2O8FIl3dKtsVVuXeb2HHI2DFN4S931ZTjipOLaa9TIcSwDeX" target="blank">
+    <img src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white" alt="Signal" />
+  </a>
+</p>
 
-<div>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Logo"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-</div>
+---
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+## 🛠️ Languages and Tools
+
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### 🌐 Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+### 🛠 Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> -->
+</p>
+
+### ⚡ AI & Data Science
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+### 🔑 Tools 
+<p>
+  <img src="https://camo.githubusercontent.com/ff98cdc123c03716521aa80f6a8092a16e0596325b0dd1ad80547f9ccc45046a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f62697477617264656e2d2532333137354444432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d62697477617264656e266c6f676f436f6c6f723d7768697465" />
+
+</p>
+
+## Flexing as a Programmer 🚀  
+Grinding code, solving problems, and building cool stuff!  
 
 
-### IDE and Tools I Use
-<div>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab Icon">
-</div>
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vishnus1793&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- <img src="https://raw.githubusercontent.com/Rithik20041/Rithik20041/output/snake.svg" alt="Snake animation" /> -->
 
-## LeetCode Stats
-![LeetCode Stats](https://leetcode.card.workers.dev/Yeshwanth_115?theme=auto&font=baloo&extension=null)
+## 📊 GitHub Stats
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vishnus1793&color=green" alt="Vishnu's Profile View Count">
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Yeshwanth-A05&style=for-the-badge&color=blueviolet&label=Visitors&labelColor=1A1A1A&logoColor=white&labelPad=10&logoPad=5&borderColor=red&borderWidth=2&shadow=5)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishnus1793&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnus1793&theme=radical" alt="GitHub Streak" />
+</p>
+
+
+
+
+## Leetcode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/vishnu1793" target="_blank">
+    <img title="LeetCode Stats" alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/Yeshwanth_115?ext=heatmap" />
+  </a>
+</p>
+
+<div align="center">
+  
+
