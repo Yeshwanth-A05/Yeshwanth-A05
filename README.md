@@ -10,14 +10,10 @@
 ---
 
 ## 📞 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/vishnu-s-0477ba246/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/ivishnu1793" target="blank">
+  <a href="https://www.instagram.com/im_yeshwanth07/" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.leetcode.com/vishnu1793" target="blank">
+  <a href="https://leetcode.com/u/Yeshwanth_115/" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
  
