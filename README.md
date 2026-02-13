@@ -4,20 +4,24 @@
 [](https://github-profile-trophy.vercel.app/?username=Yeshwanth-A05)
 
 ## 🚀 About Me
-- 👨‍💻 All of my projects are available at 
-- 📫 How to reach me: **anbumaniyeshwanth@gmail.com**
+- 👨‍💻 All of my projects are available here on GitHub.
+- 🤖 Interested in Machine Learning, Deep Learning.
+- 🧠 Exploring Neural Machine Translation & Transformer models.
+- 💻 Skilled in Python, Java, SQL, and problem-solving.
+- 🚀 Always learning and building impactful tech solutions.
+
+
 
 ---
 
 ## 📞 Connect with Me
-  <a href="https://www.instagram.com/im_yeshwanth07/" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+
+<p>
+  <a href="anbumaniyeshwanth@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://leetcode.com/u/Yeshwanth_115/" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
- 
 </p>
+
 
 ---
 
@@ -27,28 +31,13 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </p>
+
+### 🛠 Databases
+<p>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### 🌐 Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-### 🛠 Backend & Databases
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<!--   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> -->
-</p>
 
 ### ⚡ AI & Data Science
 <p>
