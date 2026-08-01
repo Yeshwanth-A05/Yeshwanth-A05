@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - 👨‍💻 All of my projects are available here on GitHub.
-- 🤖 Interested in Machine Learning, Deep Learning.
+- 🤖 Interested in Machine Learning, Deep Learning, Data Analysis.
 - 🧠 Exploring Neural Machine Translation & Transformer models.
 - 💻 Skilled in Python, Java, SQL, and problem-solving.
 - 🚀 Always learning and building impactful tech solutions.
