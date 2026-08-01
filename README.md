@@ -62,14 +62,11 @@ Grinding code, solving problems, and building cool stuff!
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yeshwanth-A05&color=green" alt="Vishnu's Profile View Count">
+  <img src="https://komarev.com/ghpvc/?username=Yeshwanth-A05&color=green" alt="Yeshwanth's Profile View Count">
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yeshwanth-A05&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yeshwanth-A05&theme=radical" alt="GitHub Streak" />
-</p>
+<
 
 
 
