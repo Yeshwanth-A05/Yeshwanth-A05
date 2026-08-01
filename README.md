@@ -52,33 +52,37 @@
 
 
 
-## Flexing as a Programmer 🚀  
-Grinding code, solving problems, and building cool stuff!  
-
-
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yeshwanth-A05&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<!-- <img src="https://raw.githubusercontent.com/Rithik20041/Rithik20041/output/snake.svg" alt="Snake animation" /> -->
-
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yeshwanth-A05&color=green" alt="Yeshwanth's Profile View Count">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yeshwanth-A05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeshwanth-A05&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=Yeshwanth-A05&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yeshwanth-A05&theme=tokyonight" />
+</p>
+
+## 👀 Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yeshwanth-A05&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yeshwanth-A05&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 
-<
 
 
 
 
-## Leetcode Stats
 
-<p align="center">
-  <a href="https://leetcode.com/vishnu1793" target="_blank">
-    <img title="LeetCode Stats" alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/Yeshwanth_115?ext=heatmap" />
-  </a>
-</p>
-
-<div align="center">
-  
 
