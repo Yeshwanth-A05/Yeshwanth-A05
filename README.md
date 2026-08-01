@@ -67,7 +67,21 @@
 
 ---
 
+## 🚀 Featured Projects
 
+### 📊 Netflix Data Analysis Dashboard
+> **Tech Stack:** Power BI, DAX, Excel
+
+Analyzed Netflix movies and TV shows using interactive dashboards to uncover trends in genres, ratings, release years, and content distribution.
+
+---
+
+### 🤖 English–Tamil Neural Machine Translation
+> **Tech Stack:** Python, TensorFlow, NLP, Transformer
+
+Developed a Neural Machine Translation system comparing Seq2Seq with Attention and Transformer architectures for low-resource language translation.
+
+---
 
 
 
