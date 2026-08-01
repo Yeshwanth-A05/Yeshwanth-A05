@@ -76,12 +76,6 @@
   <img src="https://komarev.com/ghpvc/?username=Yeshwanth-A05&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yeshwanth-A05&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
 
 
 
