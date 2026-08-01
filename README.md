@@ -63,9 +63,7 @@
   <img height="170" src="https://streak-stats.demolab.com?user=Yeshwanth-A05&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yeshwanth-A05&theme=tokyonight" />
-</p>
+
 
 ## 👀 Visitors
 
