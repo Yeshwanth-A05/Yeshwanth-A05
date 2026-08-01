@@ -59,9 +59,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeshwanth-A05&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Yeshwanth-A05&theme=tokyonight&hide_border=true" />
-</p>
 
 
 
